@@ -1,1 +1,5 @@
 # test
+
+```powershell
+get-command
+```
